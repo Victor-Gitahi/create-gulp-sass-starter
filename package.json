@@ -1,0 +1,33 @@
+{
+  "name": "@gitahiwilfred/sass-gulp-starter",
+  "version": "1.0.0",
+  "description": "A starter template to scaffold my gulp+Saas projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victor-Gitahi/create-gulp-sass-starter.git"
+  },
+  "keywords": [
+    "Sass",
+    "SCSS",
+    "CLI"
+  ],
+  "author": "ve3y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Victor-Gitahi/create-gulp-sass-starter/issues"
+  },
+  "homepage": "https://github.com/Victor-Gitahi/create-gulp-sass-starter#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.10",
+    "cssnano": "^5.1.12",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-terser": "^2.1.0",
+    "sass": "^1.53.0"
+  }
+}
