@@ -1,14 +1,12 @@
-# 👻 create-gulp-sass-starter
+# 👻 Gulp + Sass template
 
-- 👉 A starter template for scaffolding all my Gulp-Sass Based Projects 
+- 👉 Hey stranger, what you see is my starter template for scaffolding all my Gulp-Sass Based Projects 
+- A big 🙌 🥂 to @thecodercoder for her tutorial on how to set up a frontend workflow using gulp and Sass.
 
 ## ✅ How to use :
+- You want to use this.. i'm okay with that, at least someone wants to use some 'software' i 'stole' 😅😅. Enough of that, let's get started.
+- You want to make sure you have gulp installed globally. To do this go into the terminal and type in -> `npm install -g gulp`.
+- Next clone this repository in your preffered method ( using `git clone <url>` or github Desktop, you decide 😋) .
+- Finally, you want to make sure yo have a terminal opened in the cloned directory and type in `gulp`. Viola 😅.. 
 
-- This tool allows you to easily scaffold Sass+gulp templates.
-- It can be found and is installed via NPM commands
-
-- To start with, simply navigate to a directory then, in terminal ..
-   simply run `npx @gitahiwilfred/sass-gulp-starter <new-project-name>`
-
-- In the above command replace the 'new-project-name' with the project name you want to instantiate.
-- You'll get a message that says `cd <your-project-name>`, do it and after that run `gulp`.
+#### Happy debugging 😉
