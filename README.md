@@ -1,7 +1,7 @@
 # 👻 Gulp + Sass template
 
 - 👉 Hey stranger, what you see is my starter template for scaffolding all my Gulp-Sass Based Projects 
-- A big 🙌 🥂 to @thecodercoder for her tutorial on how to set up a frontend workflow using gulp and Sass.
+- A big 🙌 🥂 to @thecodercoder ( find her account here 👉 `https://github.com/thecodercoder` ) for her tutorial on how to set up a frontend workflow using gulp and Sass.
 
 ## ✅ How to use :
 - You want to use this.. i'm okay with that, at least someone wants to use some 'software' i 'stole' 😅😅. Enough of that, let's get started.
